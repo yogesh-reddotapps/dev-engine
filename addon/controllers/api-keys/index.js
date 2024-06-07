@@ -479,7 +479,7 @@ export default class ApiKeysIndexController extends Controller {
      * @void
      */
     @action viewRequestLogs(apiKey) {
-        return this.universe.transitionToEngineRoute('@fleetbase/dev-engine', 'logs.index', {
+        return this.universe.transitionToEngineRoute('@yogesh.reddotapps/dev-engine', 'logs.index', {
             queryParams: { key: apiKey.id },
         });
     }

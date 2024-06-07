@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/models/webhook-endpoint';
+export { default } from '@yogesh.reddotapps/dev-engine/models/webhook-endpoint';

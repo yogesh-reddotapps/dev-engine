@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/events/view';
+export { default } from '@yogesh.reddotapps/dev-engine/templates/events/view';

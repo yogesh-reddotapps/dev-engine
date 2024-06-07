@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/routes/logs/view';
+export { default } from '@yogesh.reddotapps/dev-engine/routes/logs/view';

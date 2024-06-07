@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/controllers/sockets/view';
+export { default } from '@yogesh.reddotapps/dev-engine/controllers/sockets/view';

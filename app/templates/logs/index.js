@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/logs/index';
+export { default } from '@yogesh.reddotapps/dev-engine/templates/logs/index';

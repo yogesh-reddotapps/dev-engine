@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/api-keys/index';
+export { default } from '@yogesh.reddotapps/dev-engine/templates/api-keys/index';

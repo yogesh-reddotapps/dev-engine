@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/components/api-event/data';
+export { default } from '@yogesh.reddotapps/dev-engine/components/api-event/data';

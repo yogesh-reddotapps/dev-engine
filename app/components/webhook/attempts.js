@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/components/webhook/attempts';
+export { default } from '@yogesh.reddotapps/dev-engine/components/webhook/attempts';

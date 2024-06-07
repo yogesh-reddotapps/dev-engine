@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/models/api-credential';
+export { default } from '@yogesh.reddotapps/dev-engine/models/api-credential';

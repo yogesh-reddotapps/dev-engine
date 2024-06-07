@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/controllers/events/index';
+export { default } from '@yogesh.reddotapps/dev-engine/controllers/events/index';
