@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/dev-engine",
+    "name": "@yogesh.reddotapps/dev-engine",
     "version": "0.2.3",
     "description": "Fleetbase Developers extension provides a module for managing developer resources such as API keys, webhooks, sockets, events and logs.",
     "fleetbase": {
